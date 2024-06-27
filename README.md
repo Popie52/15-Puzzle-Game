@@ -6,10 +6,10 @@ This is a C++ implementation of the classic 15 Puzzle game, also known as the sl
 
 ### Controls
 
-- **w**: Slide tile up
-- **a**: Slide tile left
-- **s**: Slide tile down
-- **d**: Slide tile right
+- **w**: Slide tile right
+- **a**: Slide tile down
+- **s**: Slide tile left
+- **d**: Slide tile up
 - **q**: Quit game
 
 ### Gameplay
