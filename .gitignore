@@ -1,0 +1,27 @@
+# Ignore compiled binaries and executables
+*.exe
+*.out
+
+# Ignore build directory
+build/
+
+# Ignore any temporary files
+*.o
+*.obj
+
+# Ignore Visual Studio files
+*.suo
+*.pdb
+*.vcxproj
+*.vcxproj.filters
+*.opensdf
+*.sdf
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Linux specific files
+*~
+
+# Ignore IDE specific files
+.vscode/
