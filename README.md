@@ -26,16 +26,20 @@ This is a C++ implementation of the classic 15 Puzzle game, also known as the sl
 1. Clone this repository:
 2. Navigate to the directory containing the `15_puzzle.cpp` file:
 3. Compile the code using g++ (GNU Compiler Collection):
+   ```
         g++ src/main.cpp src/Board.cpp src/Tile.cpp src/UserInput.cpp -o main
-4. Run the executable:
+   ```
+5. Run the executable:
 
 ### Windows
 
 1. Clone this repository using Git Bash or download as ZIP and extract it:
 2. Open Command Prompt (cmd) or PowerShell and navigate to the directory containing the `15_puzzle.cpp` file:
 3. Compile the code using g++ (ensure you have g++ installed, you can download MinGW for Windows for g++):
+   ```
         g++ src/main.cpp src/Board.cpp src/Tile.cpp src/UserInput.cpp -o main.exe
-4. Run the executable:
+   ```
+5. Run the executable:
 
 
 ## Contribution
